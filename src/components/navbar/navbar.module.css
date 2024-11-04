@@ -1,0 +1,23 @@
+
+.headerWrapper{
+    box-shadow: 0 5px 10px #ddd;
+}
+
+
+.header{
+height: 50px;
+display: flex;
+justify-content: end;
+}
+
+.header ul{
+    display: flex;
+    list-style: none;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.header ul li{
+margin-left: 30px;
+cursor: pointer;
+}

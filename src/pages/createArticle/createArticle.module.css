@@ -1,0 +1,24 @@
+
+
+.createArticleWrapper h1{
+    text-align: right;
+    margin-top: 50px;
+   
+}
+
+.btnWrapper{
+    text-align: right;
+}
+.btnWrapper button{
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(73, 73, 211);
+    font-size: 20px;
+    margin: 2rem 0;
+    border: 1px solid white;
+}
+
+.btnWrapper button:active{
+    opacity: .8;
+}

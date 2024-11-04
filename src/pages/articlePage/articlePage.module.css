@@ -1,0 +1,35 @@
+
+.articleWrapper{
+    margin-top: 6rem;
+}
+
+.articleWrapper h2{
+    text-align: right;
+    margin-top: 20px;
+}
+
+.spanWrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+    margin-top: 20px;
+}
+
+.spanWrapper span {
+    margin-left: 60px;
+    color: #777;
+}
+
+.imgHolder{
+
+margin: 3rem auto;
+width: 50%;
+}
+
+.imgHolder img{
+    width: 100%;
+}
+
+.articleWrapper p{
+    text-align: right;
+}

@@ -1,0 +1,21 @@
+
+
+.aboutPage h2{
+    margin: 3rem 0;
+    text-align: right;
+}
+
+.aboutPage p{
+    margin: 3rem 0;
+    text-align: right;
+}
+.aboutPage h3{
+    margin: 3rem 0;
+    text-align: center;
+    color: aqua;
+}
+
+.imgCntr{
+    display: flex;
+    justify-content: center;
+}
